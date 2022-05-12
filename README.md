@@ -109,9 +109,9 @@ example
 
 ## Task List
 
-- [x] Task 1 Checked
-- [x] Task 2 Checked
-- [ ] Task 3 UnChecked
+* [x] Task 1 Checked
+* [x] Task 2 Checked
+* [ ] Task 3 UnChecked
 ```
 ---
 ---
