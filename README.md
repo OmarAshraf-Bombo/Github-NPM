@@ -1,9 +1,8 @@
-# Tutorials-and-CheatSheets 😎
-
+# Tutorials-and-CheatSheets
 ---
 ---
 ---
-# Markdown
+# ➖➖➖➖➖➖🔴 Markdown 🔴➖➖➖➖➖➖
 ## Headings
 
 ```
@@ -17,17 +16,17 @@
 
 ## Italic Text
 ```
-\*Italic Text\* or \_Italic Text\_
+*Italic Text* or _Italic Text_
 ```
 
 ## Bold Text
 ```
-\*\*Bold Text\*\* or \_\_Bold Text\_\_
+**Bold Text** or __Bold Text__
 ```
 
 ## Strikethrough Text
 ```
-\~\~Strikethrough Text\~\~
+~~Strikethrough Text~~
 ```
 
 ## Horizontal Rule
