@@ -8,6 +8,6 @@
 
 1. [Markdown](https://github.com/OmarAshraf-Bombo/Tutorials-and-CheatSheets/tree/main/Markdown)
 
-1. [Git & Github](https://github.com/OmarAshraf-Bombo/Tutorials-and-CheatSheets/tree/main/Git&Github)
+1. [Git & Github](https://github.com/OmarAshraf-Bombo/Tutorials-and-CheatSheets/tree/main/Git%20%26%20Github)
 
 1. [Npm](https://github.com/OmarAshraf-Bombo/Tutorials-and-CheatSheets/tree/main/Npm)
