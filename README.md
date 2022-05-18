@@ -14,4 +14,4 @@
 
 1. [Npm](https://github.com/OmarAshraf-Bombo/Tutorials-and-CheatSheets/tree/main/Npm)
 
-* ```There are more to come Soon..... Stay Tuned.```
+```There are more to come Soon..... Stay Tuned.```
