@@ -1,4 +1,5 @@
 # ➖➖➖➖➖➖🔴 Markdown 🔴➖➖➖➖➖➖
+
 ## Headings
 
 ```
@@ -11,33 +12,39 @@
 ```
 
 ## Italic Text
+
 ```
 *Italic Text* or _Italic Text_
 ```
 
 ## Bold Text
+
 ```
 **Bold Text** or __Bold Text__
 ```
 
 ## Strikethrough Text
+
 ```
 ~~Strikethrough Text~~
 ```
 
 ## Horizontal Rule
+
 ```
 ---
 Or
-___ 
+___
 ```
 
 ## Blockquote
+
 ```
  > Blockquote Text
 ```
 
 ## Links
+
 ```
 Normal Link
 ------------
@@ -49,6 +56,7 @@ Link With a Title
 ```
 
 ## Unordered Lists
+
 ```
 * Item 1
 * Item 2
@@ -58,6 +66,7 @@ Link With a Title
 ```
 
 ## Ordered Lists
+
 ```
 1. Item 1
 1. Item 2
@@ -67,6 +76,7 @@ Link With a Title
 ```
 
 ## Images
+
 ```
 Same as links but with exclamation mark in the beginning.
 
@@ -74,7 +84,8 @@ Same as links but with exclamation mark in the beginning.
 ```
 
 ## Github Special Markdown
-```
+
+````
 ## Code Blocks
 
 As all these black boxes in this tutorial.
@@ -107,7 +118,4 @@ example
 - [x] Task 1 Checked
 - [x] Task 2 Checked
 - [ ] Task 3 UnChecked
-```
----
----
----
+````

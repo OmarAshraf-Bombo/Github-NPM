@@ -14,4 +14,6 @@
 
 1. [Npm](https://github.com/OmarAshraf-Bombo/Tutorials-and-CheatSheets/tree/main/Npm)
 
-```There are more to come Soon..... Stay Tuned.```
+1. [Regular Expressions (Regex)](https://github.com)
+
+`There are more to come Soon..... Stay Tuned.`
