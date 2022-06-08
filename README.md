@@ -14,6 +14,6 @@
 
 1. [Npm](https://github.com/OmarAshraf-Bombo/Tutorials-and-CheatSheets/tree/main/Npm)
 
-1. [Regular Expressions (Regex)](https://github.com)
+1. [Regular Expressions](https://github.com/OmarAshraf-Bombo/Tutorials-and-CheatSheets/tree/main/Regular%20Expressions)
 
 `There are more to come Soon..... Stay Tuned.`
