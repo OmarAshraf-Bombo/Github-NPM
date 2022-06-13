@@ -18,4 +18,6 @@
 
 1. [JSON - Javascript Object Notation](https://github.com/OmarAshraf-Bombo/Tutorials-and-CheatSheets/tree/main/JSON)
 
+1. [AJAX - Asynchronous JavaScript And XML](https://github.com/OmarAshraf-Bombo/Tutorials-and-CheatSheets/tree/main/AJAX)
+
 `There are more to come Soon..... Stay Tuned.`
