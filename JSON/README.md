@@ -114,7 +114,7 @@ objectName["addresses"]["Germany"][1]; // Munich
 ### **Parse**
 
 ```javascript
-let myJsonObject = "{"username": "omar", "age": 29}";   // String
+let myJsonObject = '{"username": "omar", "age": 29}';   // String
 let myJavascriptObject = JSON.parse(myJsonObject);
 
 console.log(typeof myJavascriptObject);
@@ -133,7 +133,7 @@ let myJsonObject = JSON.stringify(myJavascriptObject);
 console.log(typeof myJsonObject);
 // Output is String
 console.log(myJsonObject);
-// Output is "{"username": "omar", "age": 29}"
+// Output is '{"username": "omar", "age": 29}'
 // Stringify Converted The Javascript Object To JSON String.
 ```
 
