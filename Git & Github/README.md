@@ -29,7 +29,7 @@ git init
 ```
 Git config --global user.name “Omar Ashraf"
 
-Git config --global user.mail “omar_ashraf_93@hotmail.com”
+Git config --global user.mail “omar.ashraf.wagih@gmail.com”
 
 Git config --global user.author “Omar Ashraf”
 ```
@@ -151,8 +151,8 @@ git clone URL.git
 ```
 
 ## Generate & Test SSH Key ID.
-1. Type >> ```ssh-keygen -t rsa -b 4096 “omar_ashraf_93@hotmail.com”```
-Or Type >> ```ssh-keygen -o -t rsa -c “omar_ashraf_93@hotmail.com”```
+1. Type >> ```ssh-keygen -t rsa -b 4096 “omar.ashraf.wagih@gmail.com”```
+Or Type >> ```ssh-keygen -o -t rsa -c “omar.ashraf.wagih@gmail.com”```
 1. Enter File Path: Enter
 1. Enter Password
 1. Re-Enter Password
