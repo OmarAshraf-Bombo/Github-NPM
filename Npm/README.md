@@ -2,9 +2,9 @@
 
 > Npm >> Node Package Manager.
 
-> Nom was a stand alone company but Github Aquired Npm, and Microsoft owns Github so that means Microsoft Owns Npm.
+> Npm was a stand alone company but Github Acquired Npm, and Microsoft owns Github so that means Microsoft Owns Npm.
 
-> There is an Npm Alternative which is **YARN** which is Created by Facebook.
+> There is an Npm Alternative which is **Yarn** which is Created by Facebook. & Many More.
 
 ## How To Install Npm ?
 > Note: Npm can not run without nodeJs.
@@ -29,7 +29,7 @@ npm -v
 > Node Versioning is to have Multiple Versions of Node on your System.
 ## Why Node Versioning Exists ?
 > * You Could be Working on a Legacy "Old" Project which runs old Node Version and at the same time you are working on a New Project with New Version of Node which have more Features.
-> * Experimental Realeses of Node You want to try out but without breaking Your Projects.
+> * Experimental Releases of Node You want to try out but without breaking Your Projects.
 
 ## How Can We Manage Multiple Versions of Node (n) ?
 ```
@@ -52,7 +52,7 @@ sudo n
 
 * Use your up & down keys to choose the Version you want to use and press enter.
 
-* press d to delete a Node Version you don't want.
+* press d to delete a Node Version that you don't want.
 
 ## What is a Node Module ?
 > Consider modules to be the same as JavaScript libraries. <br>
@@ -63,7 +63,7 @@ Under The Hood it will Run
 ```
  npm view Module_Name
 ```
-which will get some data about that Module_Name, and most important is a tarball (.tgz) file URL.
+which will get some data about that Module_Name, and the most important among these data is a tarball (.tgz) file URL.
 
 It will then go to that URL file, Download it and Put it in a Folder called node_modules.
 
@@ -97,7 +97,7 @@ The Output will be a **JSON** File as said before, and this is an example of it.
   "description": ""
 }
 ```
-and Normally you would see a Dependecies & devDependecies Key & Values, when you install them.
+and Normally you would see a Dependencies & devDependencies Key & Values, when you install them.
 and here is an example as well.
 ```json
 {
@@ -146,7 +146,7 @@ npm uninstall Package_Name
 > Global packages are all put in a single place in your system regardless of where you run **npm install -g** Package-Name. <br>
 and Global packages is Used for any project not a specific project for example: create-react-app Package.
 
-> You Install Gloabl Package as Follows.
+> You Install Gloabal Package as Follows.
 ```
 npm install Package_Name --global
 
@@ -183,7 +183,7 @@ npm config set prefix Your/Path/Here
 1. MINOR version when you add functionality or Feature.
 1. PATCH version when you make some bug fixes.
 
-> 📌 &nbsp; Note: 99% of Developers is **NOT** Following Sematic Versioning, and this is why Npm introduced the **package-lock.json** file in Version 5.
+> 📌 &nbsp; Note: 99% of Developers is **NOT** Following semantic Versioning, and this is why Npm introduced the **package-lock.json** file in Version 5.
 
 ## What is Package-lock.json and Why it Exists ?
 
@@ -216,13 +216,13 @@ npm config set prefix Your/Path/Here
 
 > You Can Change The **^** Symbol With **~** Symbol, Which Will Update Only The Patch Version & Leave The Major & Minor Version Untouched.
 
-> If You Chose To Not The **^** Symbol or **~** Symbol, This Will Install The Exact Version In The Package.josn File Without ANy Updates.
+> If You Chose To Not The **^** Symbol or **~** Symbol, This Will Install The Exact Version In The Package.json File Without ANy Updates.
 
 ## devDependencies.
 
 > Packages that are only needed for local development and testing phase, as Jest, Babel, Webpack or Gulp...
 
-> You can install a devDependency by passing a --save-dev flag in the end of you install commande.........Example below.
+> You can install a devDependency by passing a --save-dev flag in the end of you install command.........Example below.
 ```
 npm install Package_Name --save-dev
 ``` 
@@ -248,7 +248,7 @@ npm install Package_Name --save-dev
 ```
 npx install Package_Name         
 
-npm install create-react-app
+npx install create-react-app
 ```
 
 #### JUST FOR FUN
